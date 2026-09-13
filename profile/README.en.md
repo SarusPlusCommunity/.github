@@ -16,7 +16,7 @@ Official product website: [sarusplus.ru](http://sarusplus.ru/)
 
 ## Why this organization exists
 
-SARUS+ is a commercial PLM platform for machinery and instrument engineering (CAD / CAM / PDM / composites, web access, a trusted/import-independent stack).
+SARUS+ is a commercial PLM platform for machinery and instrument engineering (CAD/composites/CAM/PDM).
 
 Around any industrial system a supporting layer appears quickly:
 
@@ -56,7 +56,7 @@ Requirements:
 2. Open an issue on this organization profile (or contact the maintainers) with a link and a brief description.
 3. If the project fits, it will be transferred or added to the organization.
 
-Pull requests and discussions are welcome. Start with a clear problem and ownership boundaries, then the code.
+Pull requests and discussions are welcome.
 
 ---
 
@@ -66,4 +66,4 @@ Pull requests and discussions are welcome. Start with a clear problem and owners
 - Compatibility of open-source tools with specific product versions must be verified independently.
 - SARUS+ / САРУС+ names and trademarks are used only to describe the subject domain.
 
-If you implement SARUS+, build integrations, or are simply exploring the platform — you are welcome here.
+If you implement SARUS+, build integrations, or are simply exploring the platform - you are welcome here.
