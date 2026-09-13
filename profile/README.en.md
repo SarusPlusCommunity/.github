@@ -24,7 +24,6 @@ Around any industrial system a supporting layer appears quickly:
 - migration and diagnostic scripts;
 - data, process, and report templates;
 - customization and extension examples;
-- training materials and best practices.
 
 The goal of this organization is to give that layer a shared home, so projects are not scattered across personal accounts and can be reused.
 
